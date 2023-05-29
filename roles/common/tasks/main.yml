@@ -1,0 +1,5 @@
+---
+- name: Instalando pacotes Common
+  apt:
+    name: "{{common}}"
+    state: present

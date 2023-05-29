@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/guilherme/licoes/01-desafio-vagrant-ansible/sites","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/guilherme/licoes/01-desafio-vagrant-ansible","disabled":false,"__vagrantfile":true}}}
